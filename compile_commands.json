@@ -1,0 +1,22 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-std=c11",
+      "-O2",
+      "-g",
+      "-Wall",
+      "-Wextra",
+      "-pthread",
+      "-Ilib/sokol",
+      "-Ilib/cglm/include",
+      "-c",
+      "-o",
+      "src/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/mau/Code/sokolkol",
+    "file": "/home/mau/Code/sokolkol/src/main.c",
+    "output": "/home/mau/Code/sokolkol/src/main.o"
+  }
+]
